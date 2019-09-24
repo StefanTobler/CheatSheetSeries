@@ -83,7 +83,7 @@ However, the following recommendations are generally appropriate for most applic
 ### Cons
 
 - Usually weak
-- Link to Security Questions CS
+- [Link to Security Questions CS](https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html)
 
 # Something You Have
 
